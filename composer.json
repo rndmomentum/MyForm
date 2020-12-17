@@ -1,0 +1,19 @@
+{
+    "name": "danialadzhar/form",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francis Macugay",
+            "email": "francis01@simplexi.com.ph"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "DanialAdzhar\\Form\\": "src/"
+        }
+    },
+    "require": {}
+}
